@@ -27,14 +27,14 @@ export default function Footer() {
       <Reveal y={16}>
         <div className="mx-auto grid max-w-7xl gap-10 px-6 py-16 lg:grid-cols-4 lg:px-10">
           <div className="lg:col-span-2">
-            <p className="text-xl font-extrabold text-white">Duozhuamiao</p>
+            <p className="text-xl font-extrabold text-white">Lvqt</p>
             <p className="mt-4 max-w-sm text-sm leading-relaxed">
               High-quality and painless dentistry for the whole family. Modern
               equipment, experienced doctors, comfortable care.
             </p>
             <div className="mt-6 space-y-1 text-sm">
               <p>123 Nguyen Hue, District 1, Ho Chi Minh City</p>
-              <p>+84 28 1234 5678 · hello@duozhuamiao.com</p>
+              <p>+84 28 1234 5678 · hello@lvqt.com</p>
             </div>
           </div>
 
@@ -58,7 +58,7 @@ export default function Footer() {
       </Reveal>
 
       <div className="border-t border-white/10 px-6 py-6 text-center text-xs lg:px-10">
-        © {new Date().getFullYear()} Duozhuamiao Dental Clinic. All rights reserved.
+        © {new Date().getFullYear()} Lvqt Dental Clinic. All rights reserved.
       </div>
     </footer>
   );

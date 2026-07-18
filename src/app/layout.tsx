@@ -8,9 +8,9 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Duozhuamiao Dental Clinic | Nha khoa chất lượng cao",
+  title: "Lvqt Dental Clinic | Nha khoa chất lượng cao",
   description:
-    "Nha khoa Duozhuamiao - dịch vụ nha khoa chất lượng cao, không đau, đội ngũ bác sĩ giàu kinh nghiệm.",
+    "Nha khoa Lvqt - dịch vụ nha khoa chất lượng cao, không đau, đội ngũ bác sĩ giàu kinh nghiệm.",
 };
 
 export default function RootLayout({

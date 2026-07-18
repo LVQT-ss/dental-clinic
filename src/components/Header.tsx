@@ -22,7 +22,7 @@ export default function Header() {
           href="#"
           className="text-xl font-extrabold tracking-tight text-foreground transition-transform hover:scale-105"
         >
-          Duozhuamiao
+          Lvqt
         </Link>
 
         <nav className="hidden items-center gap-9 lg:flex">
